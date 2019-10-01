@@ -23,6 +23,7 @@ The projects of the same problem/environment will be placed in the same folder. 
 - **RL**: Reinforcement Learning
 - **SL**: Supervised Learning
 - **UL**: Unsupervised Learning
+ *coming soon...*
 
 
 
