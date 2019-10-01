@@ -20,9 +20,10 @@ The projects of the same problem/environment will be placed in the same folder. 
 
 
 ## Abbreviations
+- **RL**: Reinforcement Learning
 - **SL**: Supervised Learning
 - **UL**: Unsupervised Learning
-- **RL**: Reinforcement Learning
+
 
 
 ## Disclaimer
